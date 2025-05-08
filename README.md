@@ -1,5 +1,7 @@
 # ml-01 머신러닝개요
 
+- [ ] scikit-learn 연습 01
+- [ ] scikit-learn 연습 02
 
 #### scikit-learn 연습 01
 
